@@ -1,4 +1,4 @@
-<p align="center" ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<p align="center" ><img src = "https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" width="120px"x></p>
 
 <h1 align="center">Hi 👋, I'm Chamodya Weerasekara</h1>
 
