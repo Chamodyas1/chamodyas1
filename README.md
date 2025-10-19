@@ -15,7 +15,6 @@
     <td width="50%" align="left">
       🎓 BSc (Hons) Computer Science — NSBM Green University<br>
       💼 Currently: Student / Aspiring Software Developer<br>
-      ✅ Projects: (add your project names here)<br>
       🟢 Specialties: (e.g. Web Development, Data Structures, Algorithms)<br>
       ☁️ Currently learning: (e.g. Cloud, DevOps, MERN, etc.)<br>
       📫 Reach me at: chamodyakalpani54@gmail.com<br>
